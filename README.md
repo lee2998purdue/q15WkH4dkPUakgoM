@@ -6,6 +6,7 @@ The client aims to minimize the number of unhappy customers. It is crucial to id
 
 ## Files
 EDA.ipynb: Exploratory Data Analysis of the data
+
 Modeling.ipynb: Implementing ML models to predict the customers' happiness
 
 ## Conclusion
